@@ -231,14 +231,24 @@
 					"size": "18"
 
 				},
+				{
 
+					"type": "text",
+
+					"title": "<b>SAC - Serviço de </br>Atendimento ao </br>Consumidor</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "18"
+
+				},
 				{
 
 					"type": "phones",
 
 					"phones": [{
-
-						"name": "<b>SAC - Serviço de Atendimento ao Consumidor</b>",
 
 						"number": "0800 704 8383"
 
@@ -268,18 +278,30 @@
 
 				{
 
+					"type": "text",
+
+					"title": "<b>Deficientes </br>Auditivos ou de Fala</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "18"
+
+				},
+				
+				{
+
 					"type": "phones",
 
 					"phones": [{
-
-						"name": "<b>Deficientes Auditivos ou de Fala</b>",
 
 						"number": "0800 704 8383"
 
 					}]
 
 				},
-
+				
 				{
 
 					"type": "text",
@@ -302,11 +324,23 @@
 
 				{
 
+					"type": "text",
+
+					"title": "<b>Ouvidoria</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "18"
+
+				},
+				
+				{
+
 					"type": "phones",
 
 					"phones": [{
-
-						"name": "<b>Ouvidoria</b>",
 
 						"number": "0800 704 8383"
 
@@ -681,6 +715,9 @@
 			"type": "divider"
 
 		},
+		
+		
+	
 
 		{
 
@@ -830,6 +867,425 @@
 
 		},
 
+		
+		
+		
+		{
+
+			"type": "expand",
+
+			"title": "Cartões Bradesco Alelo",
+
+			"color": "#6c8790",
+
+			"font": "NewJuneBook.otf",
+
+			"size": "16",
+
+			"icon_expand": "scpup_plus",
+
+			"usefulphones": [
+
+				{
+
+					"type": "text",
+
+					"title": "Cartões Bradesco Alelo",
+
+					"color": "#297EF5",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "26"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "<b>Meios de Comunicação</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "<b>Todo território nacional</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "phones",
+
+					"phones": [{
+
+						"number": "4003 3225"
+
+					}]
+
+				},
+				
+				
+				{
+
+					"type": "link_description",
+
+					"title": "<b>Solicite uma proposta agora!</b>",
+
+					"color": "#E50934",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "12",
+
+					"link": "http://m.alelopme.com.br/bradesco/?utm_source=BradescoNetApp&&utm_content=BradescoNetApp_Alimentacao&utm_campaign=BradescoNetApp"
+
+				},
+
+				
+				
+				{
+
+					"type": "divider"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "<b>Finalidade da Central de Venda</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "Oferecer ao Cliente a melhor e mais eficiente Solução em meios de pagamento do mercado. Alelo simplifica a gestão da sua empresa e leva qualidade de vida para seus colaboradores.",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "12"
+
+				},
+
+				{
+
+					"type": "divider"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "<b>Horário</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "De segunda a sexta-feira, das 9h às 19h",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "12"
+
+				},
+				
+				{
+
+					"type": "text",
+
+					"title": "<b>Central de Implantação e Suporte a Pedidos</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": " Capitais e regiões metropolitanas:",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "phones",
+
+					"phones": [{
+
+						"number": "3003 8895"
+
+					}]
+
+				},
+				
+				
+				{
+
+					"type": "text",
+
+					"title": " Demais Regiões:",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "phones",
+
+					"phones": [{
+
+						"number": "0800 333 8895"
+
+					}]
+
+				},
+				
+				
+				{
+
+					"type": "text",
+
+					"title": "<b>Horário</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "De segunda a sexta-feira, das 8h às 19h",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "12"
+
+				},
+				
+				
+				{
+
+					"type": "text",
+
+					"title": "<b>Atendimento a Empresas Especializado em  Vale-Transporte</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": " Todo território nacional:",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "phones",
+
+					"phones": [{
+
+						"number": "4003 3553"
+
+					}]
+
+				},
+				
+				
+								
+				
+				{
+
+					"type": "text",
+
+					"title": "<b>Horário</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": "De segunda a sexta-feira, das 8h às 19h",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "12"
+
+				},
+				
+				{
+
+					"type": "divider"
+
+				},
+				
+				
+				{
+
+					"type": "text",
+
+					"title": "<b>Atendimento a Empresas - Pós Venda Para Clientes Alelo</b>",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "text",
+
+					"title": " SP e grande SP",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "phones",
+
+					"phones": [{
+
+						"number": "4003 7779"
+
+					}]
+
+				},
+				
+				
+				{
+
+					"type": "text",
+
+					"title": " Demais Regiões:",
+
+					"color": "#000000",
+
+					"font": "NewJuneBook.otf",
+
+					"size": "16"
+
+				},
+
+				{
+
+					"type": "phones",
+
+					"phones": [{
+
+						"number": "0800 702 4545"
+
+					}]
+
+				}
+					
+						
+				
+
+			]
+
+		},
+
+		
+		{
+
+			"type": "divider"
+
+		},
+			
+		
+			
+		
 		{
 
 			"type": "expand",
