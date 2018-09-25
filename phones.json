@@ -235,13 +235,13 @@
 
 					"type": "text",
 
-					"title": "<b>SAC - Serviço de </br>Atendimento ao </br>Consumidor</b>",
+					"title": "<b>SAC - Serviço de <br>Atendimento ao <br>Consumidor</b>",
 
 					"color": "#000000",
 
 					"font": "NewJuneBook.otf",
 
-					"size": "18"
+					"size": "16"
 
 				},
 				{
@@ -266,7 +266,7 @@
 
 					"font": "NewJuneBook.otf",
 
-					"size": "16"
+					"size": "14"
 
 				},
 
@@ -280,13 +280,13 @@
 
 					"type": "text",
 
-					"title": "<b>Deficientes </br>Auditivos ou de Fala</b>",
+					"title": "<b>Deficientes <br>Auditivos ou de Fala</b>",
 
 					"color": "#000000",
 
 					"font": "NewJuneBook.otf",
 
-					"size": "18"
+					"size": "16"
 
 				},
 				
@@ -312,7 +312,7 @@
 
 					"font": "NewJuneBook.otf",
 
-					"size": "16"
+					"size": "14"
 
 				},
 
@@ -332,7 +332,7 @@
 
 					"font": "NewJuneBook.otf",
 
-					"size": "18"
+					"size": "16"
 
 				},
 				
@@ -358,7 +358,7 @@
 
 					"font": "NewJuneBook.otf",
 
-					"size": "16"
+					"size": "14"
 
 				}
 
@@ -918,7 +918,7 @@
 
 					"type": "text",
 
-					"title": "<b>Todo território nacional</b>",
+					"title": " Todo território nacional",
 
 					"color": "#000000",
 
@@ -947,7 +947,7 @@
 
 					"title": "<b>Solicite uma proposta agora!</b>",
 
-					"color": "#E50934",
+					"color": "#000000",
 
 					"font": "NewJuneBook.otf",
 
@@ -1013,6 +1013,12 @@
 
 				},
 
+				{
+
+					"type": "divider"
+
+				},
+				
 				{
 
 					"type": "text",
@@ -1094,6 +1100,11 @@
 
 				},
 				
+				{
+
+					"type": "divider"
+
+				},
 				
 				{
 
@@ -1164,6 +1175,11 @@
 
 				},
 				
+				{
+
+					"type": "divider"
+
+				},
 				
 								
 				
