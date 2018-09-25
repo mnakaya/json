@@ -10,8 +10,6 @@
 
 		"size": "16",
 
-
-
 		"background": "#FFFFFF",
 
 
@@ -22,17 +20,12 @@
 
 		"phone_number_color": "#FFFFFF",
 
-
-
 		"background_start": "#779099",
 
 		"background_end": "#647e84",
 
 
-
 		"link_color": "#D71D32",
-
-
 
 		"icon_collapse_open": "scpup_plus",
 
@@ -222,7 +215,7 @@
 
 					"type": "text",
 
-					"title": "Alô Bradesco Ouvidoria",
+					"title": "Alô Bradesco / Ouvidoria",
 
 					"color": "#D71D32",
 
@@ -235,7 +228,7 @@
 
 					"type": "text",
 
-					"title": "<b>SAC - Serviço de <br>Atendimento ao <br>Consumidor</b>",
+					"title": "<b>SAC - Serviços de <br>Atendimento ao <br>Consumidor</b>",
 
 					"color": "#000000",
 
@@ -260,7 +253,7 @@
 
 					"type": "text",
 
-					"title": "Cancelamento, Reclamações e informações",
+					"title": "Cancelamento, Reclamações e informações.",
 
 					"color": "#000000",
 
@@ -306,7 +299,7 @@
 
 					"type": "text",
 
-					"title": "Atendimento 24h, 7 dias por semana",
+					"title": "Atendimento 24h, 7 dias por semana.",
 
 					"color": "#000000",
 
